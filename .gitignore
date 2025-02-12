@@ -1,4 +1,4 @@
-logs/.Rproj.user/
+logs/
 Cache/
 Knit/
 Proj.sh
@@ -6,3 +6,4 @@ Proj.sh
 *.Rproj
 *~
 .Rproj.user/
+.Rhistory
