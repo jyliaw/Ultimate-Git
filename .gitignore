@@ -1,1 +1,6 @@
-logs/
+logs/.Rproj.user/
+Cache/
+Knit/
+Proj.sh
+*.Rmd
+*.Rproj
