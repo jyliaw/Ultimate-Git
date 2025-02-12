@@ -4,3 +4,5 @@ Knit/
 Proj.sh
 *.Rmd
 *.Rproj
+*~
+.Rproj.user/
